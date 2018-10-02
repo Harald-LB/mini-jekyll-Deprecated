@@ -18,3 +18,8 @@ After `bundle install` we run `jekyll build` and have the site build.
 In [step 2](https://github.com/Harald-LB/mini-jekyll-w-boostrap/tree/step_2)
 we copy paste the example called "product" from the 
 [Bootstrap site](https://getbootstrap.com/docs/4.1/examples/)
+
+## Step 3
+
+In [step 3](https://github.com/Harald-LB/mini-jekyll-w-boostrap/tree/step_3)
+we "jekyllize" the `index.html` file.

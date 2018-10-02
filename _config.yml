@@ -1,5 +1,6 @@
 
 
+baseurl: "/myblog"
 
 # Build settings
 markdown: kramdown
