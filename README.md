@@ -23,3 +23,8 @@ we copy paste the example called "product" from the
 
 In [step 3](https://github.com/Harald-LB/mini-jekyll-w-boostrap/tree/step_3)
 we "jekyllize" the `index.html` file.
+
+## Step 4
+
+In [step 4](https://github.com/Harald-LB/mini-jekyll-w-boostrap/tree/step_4)
+we "sassify" the style sheet handling.
