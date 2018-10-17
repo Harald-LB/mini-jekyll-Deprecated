@@ -67,6 +67,8 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.0, >= 1.0.1)
+    rubocop-jekyll (0.2.0)
+      rubocop (~> 0.59.0)
     ruby-progressbar (1.10.0)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
@@ -82,6 +84,7 @@ DEPENDENCIES
   jekyll (~> 3.8.4)
   jekyll-sass-converter!
   rubocop (~> 0.59.0)
+  rubocop-jekyll (~> 0.2.0)
   sassc (~> 2.0.0)
 
 BUNDLED WITH

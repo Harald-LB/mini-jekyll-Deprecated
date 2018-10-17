@@ -9,4 +9,5 @@ gem "jekyll", "~> 3.8.4"
 
 group :development do
   gem "rubocop", "~> 0.59.0"
+  gem "rubocop-jekyll", "~> 0.2.0"
 end
