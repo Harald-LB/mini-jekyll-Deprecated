@@ -18,5 +18,8 @@ exclude:
 - LICENSE
 - README.md
 
-sass:
-  style: :compressed
+#sass:
+#  style: compressed
+
+bootstrap:
+  assets: true
