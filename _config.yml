@@ -1,6 +1,6 @@
 
 
-baseurl: "/myblog"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -18,8 +18,10 @@ exclude:
 - LICENSE
 - README.md
 
-#sass:
-#  style: compressed
+sass:
+  style: :compressed
+  load_paths:
+  - "/home/harald/buildspace/bootstrap/bootstrap-4.1.3/scss"
 
 bootstrap:
   assets: true
